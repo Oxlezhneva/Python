@@ -1,0 +1,1 @@
+{"date_time": "08-05-22 17_02", "function_name": "get_shop_list_by_dishes", "arguments": "(['Омлет', 'Омлет'], 2),{}", "result": {"Яйцо ": {"measure": " шт", "quantity": 8}, "Молоко ": {"measure": " мл", "quantity": 400}, "Помидор ": {"measure": " шт", "quantity": 8}}}

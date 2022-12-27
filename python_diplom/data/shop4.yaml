@@ -1,0 +1,58 @@
+shop: Билайн
+categories:
+  - id: 224
+    name: Смартфоны
+  - id: 15
+    name: Аксессуары
+  - id: 1
+    name: Flash-накопители
+
+goods:
+  - id: 421629
+    category: 224
+    model: apple/iphone/xs-max
+    name: Смартфон Apple iPhone XS Max 512GB (золотистый)
+    price: 1100000
+    price_rrc: 61169900
+    quantity: 14
+    parameters:
+      "Диагональ (дюйм)": 6.5
+      "Разрешение (пикс)": 2688x1242
+      "Встроенная память (Гб)": 512
+      "Цвет": золотистый
+  - id: 421631
+    category: 224
+    model: apple/iphone/xr
+    name: Смартфон Apple iPhone XR 256GB (красный)
+    price: 6650000
+    price_rrc: 6699900
+    quantity: 9
+    parameters:
+      "Диагональ (дюйм)": 6.1
+      "Разрешение (пикс)": 1792x828
+      "Встроенная память (Гб)": 256
+      "Цвет": красный
+  - id: 421622
+    category: 224
+    model: apple/iphone/xr
+    name: Смартфон Apple iPhone XR 256GB (черный)
+    price: 6650000
+    price_rrc: 6699900
+    quantity: 5
+    parameters:
+      "Диагональ (дюйм)": 6.1
+      "Разрешение (пикс)": 1792x828
+      "Встроенная память (Гб)": 256
+      "Цвет": черный
+  - id: 467267
+    category: 224
+    model: apple/iphone/xr
+    name: Смартфон Apple iPhone XR 128GB (синий)
+    price: 6600000
+    price_rrc: 6649900
+    quantity: 7
+    parameters:
+      "Диагональ (дюйм)": 6.1
+      "Разрешение (пикс)": 1792x828
+      "Встроенная память (Гб)": 256
+      "Цвет": синий

@@ -1,0 +1,46 @@
+shop: МТС 
+categories:
+  - id: 221
+    name: Телевизоры
+  - id: 17
+    name: Стиральные машины
+  - id: 20
+    name: Утюг
+
+goods:
+  - id: 3216222
+    category: 221
+    model: Haier/55 Smart TV MX
+    name: Телевизор Haier 55 Smart TV MX Ultra HD " 
+    price: 100
+    price_rrc: 113990
+    quantity: 10
+    parameters:
+      "Диагональ (дюйм)": 55
+      "Разрешение (пикс)": 3840x2160
+      "Частота обновления": 1
+      "Цвет": бирюзовый
+  - id: 321677
+    category: 221
+    model: samsung/QLED QE65Q60BAUXCE
+    name: Телевизор Samsung QLED QE65Q60BAUXCE
+    price: 3000
+    price_rrc: 68990
+    quantity: 8
+    parameters:
+      "Диагональ (дюйм)": 65
+      "Разрешение (пикс)": 3840x2160
+      "Частота обновления": 2
+      "Цвет": красный
+  - id: 3216777
+    category: 221
+    model: Samsung/55 Smart TV MX
+    name: Телевизор Samsung  телевизор 100" 
+    price: 100
+    price_rrc: 113990
+    quantity: 10
+    parameters:
+      "Диагональ (дюйм)": 100
+      "Разрешение (пикс)": 3840x2160
+      "Частота обновления": 3
+      "Цвет": зеленый
